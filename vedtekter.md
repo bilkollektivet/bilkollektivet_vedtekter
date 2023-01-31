@@ -47,7 +47,7 @@ Andelsinnskudd forrentes ikke.
 
 Alle medeiere har forslags- og stemmerett i årsmøtet.
 
-Medeiere som av historiske årsaker har kjøpt flere andeler,brøker av andeler
+Medeiere som av historiske årsaker har kjøpt flere andeler, brøker av andeler
 og/eller betalt ulike beløp for eierskapet, også mens Bilkollektivet var et
 andelslag, har likevel kun ett eierskap i dagens samvirkeforetak, jf. stemmerett
 i kap. 9.
@@ -95,7 +95,7 @@ Etter å ha valgt møteleder, skal årsmøtet behandle følgende saker:
 * Gjennomgå styrets budsjett.
 * Vedta styrets honorar.
 * Velge styreleder, nestleder, styremedlemmer og varamedlemmer til styret, jf.
-  kapittel 8 - Styret.
+  kapittel 7 – Styret.
 * Velge revisor.
 * Velge valgkomité.
 * Behandle eventuelle innkomne saker.
