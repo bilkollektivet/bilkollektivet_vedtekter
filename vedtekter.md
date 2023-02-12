@@ -55,8 +55,12 @@ i kap. 9.
 
 ## 5. BRUKER AV TJENESTENE
 
-En bruker har rett til å bruke Bilkollektivets kjøretøy til de på enhver tid
-fastsatte priser og i henhold til gjeldende vilkår.
+Bilkollektivets vilkår fastsetter plikter og rettigheter til bruk av
+Bilkollektivets tjenester, utover hva som er spesifisert i vedtektene og
+gjeldende priser. Vilkårene skal legge til rette for at brukerne kan bruke
+Bilkollektivets tjenester på mest mulig hensiktsmessig måte, med minimalt av
+administrative hindre. Ved leie av bil skal brukeren i stor grad kunne benytte
+bilen som om den var sin egen.
 
 Brukere kan velge mellom flere ulike medlemsmodeller med bruks- og
 betalingsbetingelser tilpasset ulikt bruksmønster og behov. Utformingen av
