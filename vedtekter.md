@@ -9,7 +9,7 @@ Bilkollektivet SA, heretter kalt Bilkollektivet, er et samvirkeforetak for
 deling av kjøretøy. Bilkollektivet har et vekslende antall medlemmer og derav
 vekslende egenkapital. Medlemmenes ansvar er begrenset til deres andelsinnskudd.
 
-Bilkollektivet har egen administrasjon under ledelse av en ansatt direktør.
+Bilkollektivet har egen administrasjon under ledelse av en ansatt daglig leder.
 Bilkollektivets forretningskontor ligger i Oslo kommune.
 
 
@@ -117,24 +117,24 @@ velges for 1 år. Styremedlemmer kan gjenvelges. Styreleder velges i partallsår
 nestleder i oddetallsår. Ved behov for supplering kan styreleder eller nestleder
 velges for ett år. For at styret skal være beslutningsdyktig, må et flertall av
 styremedlemmene, eller deres varamedlemmer, inkludert styreleder eller
-nestleder, være til stede. Styret instruerer direktør i saker som faller utenfor
-dennes fullmakt.
+nestleder, være til stede. Styret instruerer daglig leder i saker som faller
+utenfor dennes fullmakt.
 
 I tillegg skal styret:
 
-* Ansette og instruere direktør.
-* Kontrollere at direktør driver Bilkollektivets virksomhet i henhold til
+* Ansette og instruere daglig leder.
+* Kontrollere at daglig leder driver Bilkollektivets virksomhet i henhold til
   Bilkollektivets formål og etter årsmøtets vedtak og retningslinjer.
 * Utarbeide årsmelding og regnskap.
 * Fastsette langsiktig strategi for Bilkollektivet.
 * Utarbeide budsjett.
 
 
-## 8. DIREKTØR
+## 8. DAGLIG LEDER
 
-Bilkollektivets daglige drift utføres av en direktør, ansatt av styret.
+Bilkollektivets daglige drift utføres av en daglig leder, ansatt av styret.
 
-Direktør skal ha slik fullmakt gitt av styret. Direktør har møteplikt på
+Daglig leder skal ha slik fullmakt gitt av styret. Daglig leder har møteplikt på
 styremøter, samt talerett og forslagsrett.
 
 
