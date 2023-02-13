@@ -15,9 +15,11 @@ Bilkollektivets forretningskontor ligger i Oslo kommune.
 
 ## 2. FORMÅL
 
-Bilkollektivet er en ideell organisasjon som tilbyr delte kjøretøy som
-erstatning for privatbiler. Vi skal gjennom dette bidra til et grønnere og bedre
-miljø med færre biler og mindre unødvendig kjøring. Gjennom en solid,
+Bilkollektivet er en ideell organisasjon som tilbyr delte kjøretøy som fullt ut
+kan erstatte brukernes behov for egen bil. Vi skal tilby tjenester av høy
+kvalitet, med fordelaktige vilkår og priser sammenliknet med tilsvarende
+virksomheter. Organisasjonen skal gjennom sitt virke bidra til et grønnere
+og bedre miljø med færre biler og mindre unødvendig kjøring. Gjennom en solid,
 demokratisk medlemsorganisasjon tilbyr vi attraktive delingsordninger til et
 bredt lag av befolkningen.
 
