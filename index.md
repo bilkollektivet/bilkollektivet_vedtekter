@@ -12,3 +12,11 @@ kan du følge endringer på dokumentene tilbake i tid. Dette kan også være en 
 å foreslå vedtektsendringer på en mer transparent måte.
 
 [På prosjektsidene på GitHub kan du følge endringer i vedtektene fra år til år:<br/>**{{ site.github.repository_nwo }}**]({{ site.github.repository_url }})
+
+## Vilkår
+
+Nedenfor er vilkårene hos Bilkollektivet, lagt inn i feb 2023.
+
+__NB:__ Vilkårene på https://bilkollektivet.no er de til enhver tid gjeldende vilkår.
+
+* [Vilkår](vilkar.md)
