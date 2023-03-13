@@ -85,7 +85,8 @@ saksliste skal meddeles medlemmene skriftlig 1 uke før årsmøtet. Årsmøtet k
 ikke behandle saker som ikke er ført på sakslisten. Årsregnskap, årsmelding og
 revisjonsmelding gjøres tilgjengelig for medlemmene på forsvarlig vis, slik at
 dokumentene ikke er offentlig tilgjengelig. Det skal fremkomme i innkallingen
-hvordan dokumentene er tilgjengeliggjort.
+hvordan dokumentene er tilgjengeliggjort. Styret skal legge til rette for et
+hybrid møte, der medlemmene kan delta enten ved oppmøte eller digitalt.
 
 Etter å ha valgt møteleder, skal årsmøtet behandle følgende saker:
 
