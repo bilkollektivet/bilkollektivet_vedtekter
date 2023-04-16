@@ -58,6 +58,9 @@ i kap. 9.
 En bruker har rett til å bruke Bilkollektivets kjøretøy til de på enhver tid
 fastsatte priser og i henhold til gjeldende vilkår.
 
+Bilkollektivets vilkår skal presisere hvilke utlegg en bruker skal få kreditert
+mot kvittering.
+
 Brukere kan velge mellom flere ulike medlemsmodeller med bruks- og
 betalingsbetingelser tilpasset ulikt bruksmønster og behov. Utformingen av
 Bilkollektivets medlemsmodeller besluttes av styret.
