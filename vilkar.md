@@ -20,9 +20,7 @@ bestillingstidspunktet som gjelder for hver enkelt leieforhold.
 Bilkollektivet tilbyr ulike typer
 [Medlemskap](https://bilkollektivet.no/medlemskap/). Et Medlemskap er den
 tilknytningsmodellen som en Bruker har valgt ved registrering hos
-Bilkollektivet, og som gir Brukeren tilgang til Bilkollektivets tjenester. Noen
-medlemskap inkluderer betaling av andelsinnskudd og gir medeierskap i
-Bilkollektivet, mens andre ikke gjør det.
+Bilkollektivet, og som gir Brukeren tilgang til Bilkollektivets tjenester.
 
 En «medeier» i Bilkollektivet er den fysiske eller juridiske person som er
 registrert som medlem med andelsinnskudd i Bilkollektivet. Medeierene fastsetter

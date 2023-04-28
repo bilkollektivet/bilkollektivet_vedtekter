@@ -60,7 +60,7 @@ fastsatte priser og i henhold til gjeldende vilkår.
 
 Brukere kan velge mellom flere ulike medlemsmodeller med bruks- og
 betalingsbetingelser tilpasset ulikt bruksmønster og behov. Utformingen av
-Bilkollektivets medlemsmodeller besluttes av styret.
+Bilkollektivets medlemsmodeller besluttes av medlemmene ved årsmøtet.
 
 Bilkollektivet skal på nonprofit-grunnlag kunne drive kommersiell virksomhet
 overfor ikke-medlemmer, herunder, men ikke begrenset til, bilbruk som
