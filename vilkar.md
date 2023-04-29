@@ -100,8 +100,11 @@ prisliste.
 
 ### 2.4 Drivstoff, lading og vask
 
-Bilens drivstoffkort eller ladebrikke skal benyttes ved fylling av drivstoff
-eller lading. Drivstoffkortet skal også benyttes i forbindelse med rengjøring.
+Bilens drivstoffkort eller ladebrikke skal benyttes ved fylling av drivstoff og
+vask. Kun drivstoff og vask som er belastet bilens medfølgende drivstoffkort er
+inkludert i leieprisen. Lading/hurtiglading underveis i leieforholdet er ikke
+inkludert i leieprisen.
+
 Bruker er ansvarlig for at kort og koder som er gjort tilgjengelig blir
 behandlet forsvarlig. Bruker vil bli gjort ansvarlig for eventuelt misbruk. Tapt
 drivstoffkort/ladebrikke og/eller koder på avveie må straks meldes til
@@ -136,12 +139,13 @@ Priser for bruk av kjøretøy fremkommer på
 [Bilkollektivets nettside](https://bilkollektivet.no/priser/) og i Appen
 ved bestilling. Ved motstrid er det prisene i Appen som gjelder.
 
-Inkludert i prisen er drivstoff (inklusive strøm/hurtiglading), forsikring,
-vedlikehold, og parkering på kjøretøyets faste oppstillingsplass. Ut over dette
-er Bruker ansvarlig for alle utgifter som følger av bruken. Passering av
-Autopass-bomstasjoner, ferger, bruer eller liknende trekkes automatisk på
-brukerens registrerte betalingskort basert på informasjon fra bomselskapet.
-Trekket gjøres fortløpende så fort denne informasjonen er tilgjengelig.
+Inkludert i prisen er drivstoff, forsikring, vedlikehold, samt lading og
+parkering på kjøretøyets faste oppstillingsplass. Ut over dette er Bruker
+ansvarlig for alle utgifter som følger av bruken. Lading/hurtiglading underveis
+i leieforholdet er ikke inkludert. Passering av Autopass-bomstasjoner, ferger,
+bruer eller liknende trekkes automatisk på brukerens registrerte betalingskort
+basert på informasjon fra bomselskapet. Trekket gjøres fortløpende ettersom
+denne informasjonen er tilgjengelig fra leverandøren.
 
 [Vilkår for øvrige priser og gebyrer](https://bilkollektivet.no/vilkar-for-gjeldende-priser-og-gebyrer/)
 er tilgjengelig på Bilkollektivets nettsider og anses som en integrert del av denne
