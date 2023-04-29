@@ -13,9 +13,13 @@ bestillingstidspunktet som gjelder for hver enkelt leieforhold.
 
 ## 1. Innledning
 
-* Med «Bruker» menes den fysiske eller juridiske person som står som registrert leietaker av Bilkollektivets kjøretøy.
-* Disse vilkårene regulerer bruken av Bilkollektivets tjenester, og dermed forholdet mellom «Bruker» og «Bilkollektivet».
-* Bruker plikter å rette seg etter de til enhver tid gjeldende bestemmelser og vilkår. Alle Brukere skal være kjent med, og er forpliktet i henhold til denne avtalen.
+* Med «Bruker» menes den fysiske eller juridiske person som står som registrert
+  leietaker av Bilkollektivets kjøretøy.
+* Disse vilkårene regulerer bruken av Bilkollektivets tjenester, og dermed
+  forholdet mellom «Bruker» og «Bilkollektivet».
+* Bruker plikter å rette seg etter de til enhver tid gjeldende bestemmelser og
+  vilkår. Alle Brukere skal være kjent med, og er forpliktet i henhold til denne
+  avtalen.
 
 Bilkollektivet tilbyr ulike typer
 [Medlemskap](https://bilkollektivet.no/medlemskap/). Et Medlemskap er den
@@ -281,9 +285,12 @@ Følgende er eksempler, men ikke uttømmende oversikt, over uforsvarlig bruk:
 * røyke i bil
 * fylle feil drivstoff
 
-Brukers begrensning av egenandel knyttet skader gjelder ikke dersom kjøretøyet brukes til budbil, taxi eller annen persontransport mot betaling.
+Brukers begrensning av egenandel knyttet skader gjelder ikke dersom kjøretøyet
+brukes til budbil, taxi eller annen persontransport mot betaling.
 
-Ved tilfeller der forsikringsselskapet søker regress på grunn av grov uaktsomhet eller andre forhold som hviler på Bruker, skal Bruker erstatte Bilkollektivets administrative utgifter i tillegg til regresskravet.
+Ved tilfeller der forsikringsselskapet søker regress på grunn av grov uaktsomhet
+eller andre forhold som hviler på Bruker, skal Bruker erstatte Bilkollektivets
+administrative utgifter i tillegg til regresskravet.
 
 ## 6. Sporing / skadedeteksjon
 
@@ -334,8 +341,12 @@ terror, epidemier, pandemier og innskrenking av tilgang på drivstoff.
 
 ## 9. Endringer i brukervilkårene
 
-Bilkollektivet forbeholder seg retten til å endre vilkårene. De til enhver tid gjeldende Brukervilkår er tilgjengelig på Bilkollektivet nettsider. Fortsatt bruk av tjenesten etter at endringene har trådt i kraft, innebærer Brukers aksept av de oppdaterte vilkårene.
+Bilkollektivet forbeholder seg retten til å endre vilkårene. De til enhver tid
+gjeldende Brukervilkår er tilgjengelig på Bilkollektivet nettsider. Fortsatt
+bruk av tjenesten etter at endringene har trådt i kraft, innebærer Brukers
+aksept av de oppdaterte vilkårene.
 
 ## 10. Tvister og lovvalg
 
-Avtalen mellom Bilkollektivet og Bruker av tjenesten reguleres av norsk rett. Oslo tingrett er avtalt verneting.
+Avtalen mellom Bilkollektivet og Bruker av tjenesten reguleres av norsk rett.
+Oslo tingrett er avtalt verneting.
