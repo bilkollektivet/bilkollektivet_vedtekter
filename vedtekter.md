@@ -174,16 +174,14 @@ Oppløsning av Bilkollektivet krever 2/3 flertall av alle medeiere, eventuelt et
 Ved oppløsning skal Bilkollektivets eiendeler realiseres og den gjenværende
 kapitalen disponeres på følgende måte:
 
-Andelsinnskuddene tilbakebetales så langt det finnes dekning.
-
-Eventuelt egenkapital etter innløsning av andelsinnskuddene skal fordeles mellom
-medlemmene på grunnlag av betalte tjenester (eksklusive årskontingent, skader og
-bøter) de to siste årene. Kapitalen som skal fordeles på denne måten, skal være
-begrenset oppad til samlet sum to ganger andelsinnskuddene.
-
-Eventuelt overskudd ut over to gang andelsinnskuddene skal deles likt av
-Framtiden i våre hender, Norges Miljøvernforbund, Natur og ungdom og Norges
-Naturvernforbund.
+* Andelsinnskuddene tilbakebetales så langt det finnes dekning.
+* Eventuelt egenkapital etter innløsning av andelsinnskuddene skal fordeles
+  mellom medlemmene på grunnlag av betalte tjenester (eksklusive årskontingent,
+  skader og bøter) de to siste årene. Kapitalen som skal fordeles på denne
+  måten, skal være begrenset oppad til samlet sum to ganger andelsinnskuddene.
+* Eventuelt overskudd ut over to gang andelsinnskuddene skal deles likt av
+  Framtiden i våre hender, Norges Miljøvernforbund, Natur og ungdom og Norges
+  Naturvernforbund.
 
 
 ## 13. SIGNATUR
@@ -194,4 +192,5 @@ Styret kan meddele signaturrett til:
 
 * styreleder sammen med et navngitt styremedlem,
 * eller til styreleder sammen med direktøren.
-* Slik meddelt signaturrett kan kalles tilbake når som helst.
+
+Slik meddelt signaturrett kan kalles tilbake når som helst.
