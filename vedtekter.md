@@ -1,13 +1,13 @@
 Vedtekter for Bilkollektivet
 ============================
 
-_Vedtatt av årsmøtet 15. juni 2022_
+_Vedtatt av årsmøtet 8-11. mai 2023_
 
 ## 1. ORGANISASJON
 
 Bilkollektivet SA, heretter kalt Bilkollektivet, er et samvirkeforetak for
-deling av kjøretøy. Bilkollektivet har et vekslende antall medlemmer og derav
-vekslende egenkapital. Medlemmenes ansvar er begrenset til deres andelsinnskudd.
+deling av kjøretøy. Bilkollektivet har et vekslende antall medeiere og derav
+vekslende egenkapital. Medeiernes ansvar er begrenset til deres andelsinnskudd.
 
 Bilkollektivet har egen administrasjon under ledelse av en ansatt direktør.
 Bilkollektivets forretningskontor ligger i Oslo kommune.
@@ -63,7 +63,7 @@ betalingsbetingelser tilpasset ulikt bruksmønster og behov. Utformingen av
 Bilkollektivets medlemsmodeller besluttes av styret.
 
 Bilkollektivet skal på nonprofit-grunnlag kunne drive kommersiell virksomhet
-overfor ikke-medlemmer, herunder, men ikke begrenset til, bilbruk som
+overfor ikke-medeiere, herunder, men ikke begrenset til, bilbruk som
 abonnementstjenester for bedrifter, organisasjoner, lag eller enkeltpersoner;
 administrative tjenesteytelser for tredjepart, herunder, men ikke begrenset til,
 andre bildelingsselskaper eller andre typer bildelingssammenslutninger; samt
@@ -75,15 +75,15 @@ Det tilligger styret å godkjenne retningslinjer for slike tjenester.
 
 ## 6. ÅRSMØTET
 
-Bilkollektivets øverste organ er årsmøtet. Hvert medlemskap har én stemme i
+Bilkollektivets øverste organ er årsmøtet. Hver medeier har én stemme i
 årsmøtet. Ordinært årsmøte skal finne sted senest 20. juni hvert år. Styret skal
-skriftlig varsle medlemmene om årsmøtet minst 6 uker på forhånd. Varslet skal
+skriftlig varsle medeierne om årsmøtet minst 6 uker på forhånd. Varslet skal
 omfatte tid for møtet samt valgkomiteens innstilling til nytt styre. Saker
-fremmet av medlemmer, herunder alternative forslag til styrets sammensetning,
+fremmet av medeierne, herunder alternative forslag til styrets sammensetning,
 skal være styret i hende senest 2 uker før årsmøtet. Innkalling og endelig
-saksliste skal meddeles medlemmene skriftlig 1 uke før årsmøtet. Årsmøtet kan
+saksliste skal meddeles medeierne skriftlig 1 uke før årsmøtet. Årsmøtet kan
 ikke behandle saker som ikke er ført på sakslisten. Årsregnskap, årsmelding og
-revisjonsmelding gjøres tilgjengelig for medlemmene på forsvarlig vis, slik at
+revisjonsmelding gjøres tilgjengelig for medeierne på forsvarlig vis, slik at
 dokumentene ikke er offentlig tilgjengelig. Det skal fremkomme i innkallingen
 hvordan dokumentene er tilgjengeliggjort.
 
@@ -101,7 +101,7 @@ Etter å ha valgt møteleder, skal årsmøtet behandle følgende saker:
 * Behandle eventuelle innkomne saker.
 
 Det skal innkalles til ekstraordinært årsmøte dersom minimum 10 % av
-Bilkollektivets medlemmer eller minst to av styrets medlemmer krever det. Styret
+Bilkollektivets medeiere eller minst to av styrets medlemmer krever det. Styret
 skal skriftlig kalle inn til ekstraordinært årsmøte med 2 ukers varsel vedlagt
 saksliste og forslag til vedtak fra dem som krever møtet. Bare forhåndsvarslet
 saksliste kan behandles.
@@ -110,7 +110,7 @@ saksliste kan behandles.
 ## 7. STYRET
 
 Bilkollektivet ledes av et styre. Styret er Bilkollektivets høyeste organ mellom
-årsmøtene. Styret skal bestå av et ulikt antall medlemmer på mellom 5 og 7
+årsmøtene. Styret skal bestå av et ulikt antall medeiere på mellom 5 og 7
 personer etter årsmøtets valg. Det skal tilstrebes kjønnsbalanse i styret.
 Leder, nestleder og styremedlemmene velges for 2 år, mens minst 2 varamedlemmer
 velges for 1 år. Styremedlemmer kan gjenvelges. Styreleder velges i partallsår,
@@ -167,7 +167,7 @@ Disse vedtektene kan endres med 2/3 flertall på et årsmøte.
 
 ## 12. OPPLØSNING
 
-Oppløsning av Bilkollektivet krever 2/3 flertall av alle medlemmer, eventuelt et
+Oppløsning av Bilkollektivet krever 2/3 flertall av alle medeiere, eventuelt et
 2/3 flertall på et ordinært årsmøte fulgt av 2/3 flertall på et ekstraordinært
 årsmøte avholdt 2-4 uker senere.
 
