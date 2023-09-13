@@ -100,9 +100,8 @@ prisliste.
 
 ### 2.4 Drivstoff, lading og vask
 
-Bilens drivstoffkort eller ladebrikke skal benyttes ved fylling av drivstoff og
-vask. Kun drivstoff og vask som er belastet bilens medfølgende drivstoffkort er
-inkludert i leieprisen. Lading/hurtiglading underveis i leieforholdet er ikke
+Bilens drivstoffkort eller ladebrikke skal fortrinnsvis benyttes ved fylling av
+drivstoff og vask. Lading/hurtiglading underveis i leieforholdet er ikke
 inkludert i leieprisen.
 
 Bruker er ansvarlig for at kort og koder som er gjort tilgjengelig blir
