@@ -110,7 +110,7 @@ saksliste kan behandles.
 ## 7. STYRET
 
 Bilkollektivet ledes av et styre. Styret er Bilkollektivets høyeste organ mellom
-årsmøtene. Styret skal bestå av et ulikt antall medeiere på mellom 5 og 7
+årsmøtene. Styret skal bestå av et ulikt antall styremedlemmer på mellom 5 og 7
 personer etter årsmøtets valg. Det skal tilstrebes kjønnsbalanse i styret.
 Leder, nestleder og styremedlemmene velges for 2 år, mens minst 2 varamedlemmer
 velges for 1 år. Styremedlemmer kan gjenvelges. Styreleder velges i partallsår,
