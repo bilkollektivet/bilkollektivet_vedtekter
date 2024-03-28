@@ -82,10 +82,12 @@ omfatte tid for møtet samt valgkomiteens innstilling til nytt styre. Saker
 fremmet av medeierne, herunder alternative forslag til styrets sammensetning,
 skal være styret i hende senest 2 uker før årsmøtet. Innkalling og endelig
 saksliste skal meddeles medeierne skriftlig 1 uke før årsmøtet. Årsmøtet kan
-ikke behandle saker som ikke er ført på sakslisten. Årsregnskap, årsmelding og
-revisjonsmelding gjøres tilgjengelig for medeierne på forsvarlig vis, slik at
-dokumentene ikke er offentlig tilgjengelig. Det skal fremkomme i innkallingen
-hvordan dokumentene er tilgjengeliggjort.
+ikke behandle saker som ikke er ført på sakslisten. Forslag til vedtektsendring
+skal i innkallingen presenteres med ordlyd for de endrede vedtektene, samt
+hensikten bak vedtektsendringen. Årsregnskap, årsmelding og revisjonsmelding
+gjøres tilgjengelig for medeierne på forsvarlig vis, slik at dokumentene ikke er
+offentlig tilgjengelig. Det skal fremkomme i innkallingen hvordan dokumentene er
+tilgjengeliggjort.
 
 Etter å ha valgt møteleder, skal årsmøtet behandle følgende saker:
 
