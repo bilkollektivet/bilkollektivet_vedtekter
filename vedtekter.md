@@ -39,9 +39,15 @@ Andelsinnskuddet er kr 1.800,-.
 
 Det er ingen kontingent tilknyttet eierskapet.
 
-Ved avslutning av eierskapet har medeiere krav på å få tilbakebetalt sitt
-andelsinnskudd, fratrukket det til enhver tid gjeldende administrasjonsgebyr.
-Tilbakebetalingen skal finne sted senest 8 uker etter skriftlig varsel.
+Ved avslutning av eierskapet (fratreden) har medeiere krav på å få tilbakebetalt
+sitt andelsinnskudd, fratrukket det til enhver tid gjeldende
+administrasjonsgebyr. Det utbetales kun andelsinnskudd når summen av opptjent
+egenkapital er mer enn 4 % av omsetningen i siste revisorgodkjente årsregnskap.
+Heretter betegnet som «handlingsregelen». Den maksimale summen for utbetalinger
+i en regnskapsperiode er begrenset til differansen mellom faktisk opptjent
+egenkapital og handlingsregelen. Medeiere som fratrer i perioder der vilkårene
+ikke er oppfylt, vil komme på en venteliste, og får utbetalingen sin så snart
+vilkårene er oppfylt.
 
 Andelsinnskudd forrentes ikke.
 
