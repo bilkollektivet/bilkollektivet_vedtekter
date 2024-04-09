@@ -148,10 +148,10 @@ basert på informasjon fra bomselskapet. Trekket gjøres fortløpende ettersom
 denne informasjonen er tilgjengelig fra leverandøren.
 
 [Vilkår for øvrige priser og gebyrer](https://bilkollektivet.no/vilkar-for-gjeldende-priser-og-gebyrer/)
-er tilgjengelig på Bilkollektivets nettsider og anses som en integrert del av denne
-avtalen. Leiepriser er også tilgjengelig i appen ved reservasjon. Ved motstrid
-mellom prisliste publisert på Bilkollektivets nettsider og prisene i appen, har
-prisene i appen forrang.
+er tilgjengelig på Bilkollektivets nettsider og anses som en integrert del av
+denne avtalen. Leiepriser er også tilgjengelig i appen ved reservasjon. Ved
+motstrid mellom prisliste publisert på Bilkollektivets nettsider og prisene i
+appen, har prisene i appen forrang.
 
 Bilkollektivet kan etterbelaste ethvert krav som refererer seg til gebyrer,
 bøter/forelegg, utgifter til tilbaketransport ved mislighold eller levering av
